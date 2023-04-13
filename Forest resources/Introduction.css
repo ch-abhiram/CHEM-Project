@@ -1,0 +1,378 @@
+
+#main{
+    background-color: whitesmoke;
+}
+
+#eren{
+    width: 1250px;
+    height: 150px;
+    background-color: darkslategray;
+}
+.pass{
+    width: 146px;
+    height: 146px;
+    border-top: 2px solid darkcyan;
+    border-bottom: 2px solid darkcyan;
+    border-left: 2px solid darkcyan;
+    float: left;
+}
+.fail{
+    width: 1100px;
+    height: 150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    color:gainsboro;
+    font-weight: 50px;
+    padding-top:25px;
+    padding-bottom:25px; 
+    padding-left: 25px;
+}
+#mikasa{
+    width: 1250px;
+    height: 25px;
+    background-color: darkslategrey;
+}
+#armin{
+    width: 1250px;
+    height: 422px;
+    background-color: darkslategrey;
+}
+.url{
+    width:760px;
+    height: 422px;
+    background-color:white;
+    float: left;
+}
+.op{
+    width: 470px;
+    height: 422px;
+    float: right;
+    border-left: 10px solid white;
+}
+.loc{
+    width: 470px;
+    height: 40px;
+    text-align: center;
+    font-weight: 50px;
+    font-size: 20px;
+    color: floralwhite;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    justify-items: center;
+}
+.koc{
+    width: 470px;
+    height: 326px;
+    background-color:darkcyan;
+
+}
+.kil{
+    padding-bottom: 20px;
+    color: whitesmoke;
+    font-size: 19px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#levi{
+    width: 1250px;
+    height: 700px;
+}
+.imu{
+    width: 530px;
+    height: 680px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.lop{
+    width: 530px;
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    justify-items: center;padding-top: 15px;
+}
+.poi{
+    width: 530px;
+    height: 550px;
+    border: 10px;
+    border-radius: 20px;
+    background-color: darkcyan;
+}
+.koi{
+    color: aliceblue;
+    font-size: 25px;
+    justify-items:flex-start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 20px;
+}
+.joyboy{
+    width: 680px;
+    height: 700px;
+    background-color: darkslategray;
+    float: right;
+}
+#hem{
+    width: 1250px;
+    height: 700px;
+}
+.sem{
+    width: 530px;
+    height: 680px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.kem{
+    width: 530px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+    justify-items: center;
+    padding-top: 15px;
+}
+.oil{
+    width: 530px;
+    height: 550px;
+    border: 10px;
+    border-radius: 20px;
+    background-color: darkcyan;
+}
+.book{
+    color: aliceblue;
+    font-size: 25px;
+    justify-items:flex-start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 20px;
+}
+.mari{
+    width: 680px;
+    height: 700px;
+    background-color: darkslategray;
+    float: right;
+}
+
+.les{
+    width: 1230px;
+    height: 80px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.kim{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    color:darkslategrey;
+    padding-top: 10px;
+}
+.lum{
+    width: 1250px;
+    height: 300px;
+}
+.lok{
+    width: 230px;
+    height: 280px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.lre{
+    width: 240px;
+    height: 40px;
+
+}
+.lit{
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+}
+.lwe{
+    width: 250px;
+    height: 150px;
+
+}
+.jit{
+    padding-left: 50px;
+    padding-right: 50px;  
+
+    padding-bottom: 20px;  
+}
+.lra{
+    width: 230px;
+    height: 180px;
+}
+.dtf{
+    text-align: center;
+padding-top: 50px;
+font-size: 19px;
+padding-right: 20px;
+color: aliceblue;
+}
+.man{
+    width: 230px;
+    height: 280px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+    margin-left: 10px;
+}
+.can{
+    width: 240px;
+    height: 40px;
+
+}
+.san{
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+}
+.wen{
+    width: 250px;
+    height: 150px;
+
+}
+.jen{
+    padding-left: 50px;
+    padding-right: 50px;  
+    padding-top: 30px;
+    padding-bottom: 20px;  
+}
+.hat{
+    width: 230px;
+    height: 180px;
+}
+.sdr{
+    text-align: center;
+padding-top: 60px;
+font-size: 19px;
+color: aliceblue;
+}
+.lut{
+    width: 230px;
+    height: 280px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+    margin-left: 10px;
+}
+.het{
+    width: 240px;
+    height: 40px;
+
+}
+.qan{
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+}
+.fen{
+    width: 250px;
+    height: 150px;
+
+}
+.ren{
+    padding-left: 50px;
+    padding-right: 50px;  
+    padding-top: 20px;
+    padding-bottom: 70px;  
+}
+.tat{
+    width: 230px;
+    height: 180px;
+    padding-bottom: 10px;
+}
+.adr{
+    text-align: center;
+padding-top: 30px;
+font-size: 19px;
+color: aliceblue;
+}
+.hyt{
+    width: 230px;
+    height: 280px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+    margin-left: 10px;
+}
+.yan{
+    width: 240px;
+    height: 40px;
+
+}
+.wan{
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+}
+.een{
+    width: 250px;
+    height: 150px;
+
+}
+.men{
+    padding-left: 50px;
+    padding-right: 50px;  
+    padding-top: 40px;
+    padding-bottom: 40px;  
+}
+.yat{
+    width: 230px;
+    height: 180px;
+    padding-bottom: 10px;
+}
+.zdr{
+    text-align: center;
+padding-top: 50px;
+font-size: 19px;
+color: aliceblue;
+}
+.ytu{
+    width: 185px;
+    height: 280px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+    margin-left: 10px;
+}
+.oan{
+    width: 240px;
+    height: 40px;
+
+}
+.zan{
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 50px;
+    color: aliceblue;
+}
+.pen{
+    width: 250px;
+    height: 150px;
+
+}
+.aen{
+    padding-left: 35px;
+    padding-right: 80px;  
+    padding-top: 40px;
+    padding-bottom: 40px;  
+}
+.jat{
+    width: 230px;
+    height: 180px;
+    padding-bottom: 10px;
+}
+.kdr{
+    text-align: center;
+padding-top: 60px;
+padding-right: 30px;
+font-size: 15px;
+color: aliceblue;
+}
